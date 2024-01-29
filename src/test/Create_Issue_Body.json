@@ -1,0 +1,24 @@
+{
+    
+	"fields": {
+        "project": {
+            "id": "10100"
+        },
+        "summary": "Unable to add new item to the cart",
+        "issuetype": {
+            "name": "Bug"
+        },
+        "assignee": {
+            "name": "rahulkawatghare05"
+        },
+        "reporter": {
+            "name": "rahulkawatghare05"
+        },
+        "priority": {
+            "name": "Highest"
+        },
+        "environment": "All environment",
+        "description": "Steps to generate bug \n1. Open https://abc.com \n2. Click on add to cart button of any item."
+		
+    }
+}
