@@ -1,9 +1,7 @@
-package JIRA.JIRA_AUTOMATION_PROJECT.CRUD_OPERATIONS;
+package JIRA.JIRA_AUTOMATION_PROJECT;
 import static io.restassured.RestAssured.*;
 
 import org.testng.annotations.Test;
-
-import JIRA.JIRA_AUTOMATION_PROJECT.JIRA_LOGIN;
 
 public class Delete_Issue extends JIRA_LOGIN{
 

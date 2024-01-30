@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="JIRA.JIRA_AUTOMATION_PROJECT.CRUD_OPERATIONS.Update_Issue">
+      <class name="JIRA.JIRA_AUTOMATION_PROJECT.Add_Comment">
         <methods>
-          <include name="updateIssue"/>
+          <include name="addComment"/>
         </methods>
-      </class> <!-- JIRA.JIRA_AUTOMATION_PROJECT.CRUD_OPERATIONS.Update_Issue -->
+      </class> <!-- JIRA.JIRA_AUTOMATION_PROJECT.Add_Comment -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
