@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-29T23:02:07 IST" name="Default suite" finished-at="2024-01-29T23:02:08 IST" duration-ms="729">
+  <suite started-at="2024-01-30T09:34:34 IST" name="Default suite" finished-at="2024-01-30T09:34:34 IST" duration-ms="61">
     <groups>
     </groups>
-    <test started-at="2024-01-29T23:02:07 IST" name="Default test" finished-at="2024-01-29T23:02:08 IST" duration-ms="729">
-      <class name="JIRA.JIRA_AUTOMATION_PROJECT.Create_Issue">
-        <test-method signature="createIssue()[pri:0, instance:JIRA.JIRA_AUTOMATION_PROJECT.Create_Issue@3e8b3b79]" started-at="2024-01-29T23:02:07 IST" name="createIssue" finished-at="2024-01-29T23:02:08 IST" duration-ms="701" status="PASS">
+    <test started-at="2024-01-30T09:34:34 IST" name="Default test" finished-at="2024-01-30T09:34:34 IST" duration-ms="61">
+      <class name="JIRA.JIRA_AUTOMATION_PROJECT.CRUD_OPERATIONS.Update_Issue">
+        <test-method signature="updateIssue()[pri:0, instance:JIRA.JIRA_AUTOMATION_PROJECT.CRUD_OPERATIONS.Update_Issue@5dbb50f3]" started-at="2024-01-30T09:34:34 IST" name="updateIssue" finished-at="2024-01-30T09:34:34 IST" duration-ms="37" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createIssue -->
-      </class> <!-- JIRA.JIRA_AUTOMATION_PROJECT.Create_Issue -->
+        </test-method> <!-- updateIssue -->
+      </class> <!-- JIRA.JIRA_AUTOMATION_PROJECT.CRUD_OPERATIONS.Update_Issue -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

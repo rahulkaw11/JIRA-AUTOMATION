@@ -1,6 +1,9 @@
-package JIRA.JIRA_AUTOMATION_PROJECT;
+package JIRA.JIRA_AUTOMATION_PROJECT.CRUD_OPERATIONS;
 
 import org.testng.annotations.Test;
+
+import JIRA.JIRA_AUTOMATION_PROJECT.JIRA_LOGIN;
+
 import static io.restassured.RestAssured.*;
 
 import java.io.IOException;

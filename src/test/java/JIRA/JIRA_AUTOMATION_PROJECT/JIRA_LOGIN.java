@@ -11,7 +11,7 @@ public class JIRA_LOGIN {
 	String password = "Rahul@123";
 	String jSessionId = "";
 	String value = "";
-	String sessionCookie = "";
+	protected String sessionCookie = "";
 	
 	public JIRA_LOGIN () {
 		
